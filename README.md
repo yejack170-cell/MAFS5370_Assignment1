@@ -20,4 +20,6 @@ For each method, we provide:
 
 The concept/process description explains the logic and assumptions behind each method.
 
-For the Q-Learning code part , there also including the test code in it.
+For the Q-Learning code part , there also including the test code in it.Within the base_case code,
+
+it running for the single case , parameter when n=3,T=3,
